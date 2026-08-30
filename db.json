@@ -1,0 +1,11 @@
+{
+  "rooms": [],
+  "customers": [],
+  "staff": [],
+  "expenses": [],
+  "seq": {
+    "customer": 4,
+    "staff": 5,
+    "expense": 6
+  }
+}

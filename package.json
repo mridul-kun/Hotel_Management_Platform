@@ -1,0 +1,12 @@
+{
+    "name": "antique-pages-hotel",
+    "version": "1.0.0",
+    "description": "Hotel management app for Antique Pages Hotel & Estate — rooms, guests, staff and expense tracking.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
